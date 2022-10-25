@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "CourseName": "Computer Engineering",
+    "group": "Science",
+    "CourseDescription": "Eu veniam cupidatat irure voluptate consectetur ut et elit nostrud adipisicing do in ad fugiat. Sunt quis deserunt sint laborum. Lorem quis laboris eu laborum reprehenderit. Ipsum labore aliqua mollit in commodo irure esse minim dolor tempor irure voluptate. Deserunt dolore reprehenderit occaecat aliquip sint consectetur aliquip. Dolor anim commodo id laborum id dolore veniam exercitation ea nostrud officia id esse incididunt.\r\n"
+  },
+  {
+    "id": "2",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://images.unsplash.com/photo-1627556704283-452301a45fd0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "CourseName": "Business Management",
+    "group": "Commerce",
+    "CourseDescription": "In voluptate esse fugiat eu do consequat est enim reprehenderit. Quis nostrud aliquip sunt labore commodo. Aliqua laborum cupidatat non dolor quis anim anim ex pariatur. Consequat incididunt nisi cillum excepteur cillum cupidatat nulla laboris. Sint culpa consequat mollit exercitation aliqua nostrud ipsum do deserunt exercitation ut irure.\r\n"
+  },
+  {
+    "id": "3",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://images.unsplash.com/photo-1514369118554-e20d93546b30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "CourseName": "Diploma Electrical",
+    "group": "Diploma",
+    "CourseDescription": "Veniam nulla aliqua officia fugiat. Ea minim consectetur ut dolor laboris exercitation in voluptate veniam incididunt sint. Anim consectetur excepteur laboris excepteur est cupidatat. Consequat qui proident aute magna incididunt non in id ullamco consequat ad. Consequat ex duis Lorem irure nulla sunt culpa Lorem nostrud commodo in sint aute. Occaecat incididunt consectetur ipsum ex elit ea eiusmod eiusmod duis velit.\r\n"
+  },
+  {
+    "id": "4",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://plus.unsplash.com/premium_photo-1661490867606-1ac837f9748e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "CourseName": "Civil Engineering",
+    "group": "Science",
+    "CourseDescription": "Reprehenderit occaecat adipisicing ut laborum laborum excepteur id nostrud et commodo laboris tempor ea. Consectetur deserunt ut officia dolor cupidatat irure proident eu mollit id. Laboris laborum consequat commodo dolor deserunt ipsum ea fugiat est. In do ad officia irure ipsum eiusmod id nostrud Lorem reprehenderit amet. Ipsum quis voluptate ullamco ullamco cillum reprehenderit non eu. Aute reprehenderit qui duis anim.\r\n"
+  },
+  {
+    "id": "5",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1532&q=80",
+    "CourseName": "Bachelor of Arts",
+    "group": "Humanities",
+    "CourseDescription": "Qui pariatur enim nostrud dolore ea aliquip nulla labore cillum proident ut sint. Exercitation esse consequat ullamco elit quis commodo. In velit ad aliqua duis id nulla ipsum duis proident.\r\n"
+  },
+  {
+    "id": "6",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "CourseName": "Master of Business A.",
+    "group": "Commerce",
+    "CourseDescription": "In tempor ad esse in sunt cupidatat ipsum duis excepteur laborum. Qui ea laborum aute tempor incididunt. Sunt ipsum nisi non qui duis sit eu labore amet aliquip aliqua laboris. Excepteur nulla laboris ut in adipisicing nisi occaecat exercitation excepteur quis aute mollit. Anim non dolore nisi est magna.\r\n"
+  },
+  {
+    "id": "7",
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "picture": "https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "CourseName": "Electronics Engineering",
+    "group": "Science",
+    "CourseDescription": "In tempor ad esse in sunt cupidatat ipsum duis excepteur laborum. Qui ea laborum aute tempor incididunt. Sunt ipsum nisi non qui duis sit eu labore amet aliquip aliqua laboris. Excepteur nulla laboris ut in adipisicing nisi occaecat exercitation excepteur quis aute mollit. Anim non dolore nisi est magna.\r\n"
+  },
+  {
+    "id": "8",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "CourseName": "Master of Arts",
+    "group": "Humanities",
+    "CourseDescription": "In tempor ad esse in sunt cupidatat ipsum duis excepteur laborum. Qui ea laborum aute tempor incididunt. Sunt ipsum nisi non qui duis sit eu labore amet aliquip aliqua laboris. Excepteur nulla laboris ut in adipisicing nisi occaecat exercitation excepteur quis aute mollit. Anim non dolore nisi est magna.\r\n"
+  },
+  {
+    "id": "9",
+    "Instructor":[{"name": "Garade Pickey Moon","img":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","des":"There are many variations of passages of Lorem Ipsum available"}],
+    "basicInfo":[{"Price": "$6534","Lessons":"12","Duration":"4","Started":" 03-11-2017","Class":"120"}],
+    "picture": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "CourseName": "Diploma in Computer",
+    "group": "Diploma",
+    "CourseDescription": "In tempor ad esse in sunt cupidatat ipsum duis excepteur laborum. Qui ea laborum aute tempor incididunt. Sunt ipsum nisi non qui duis sit eu labore amet aliquip aliqua laboris. Excepteur nulla laboris ut in adipisicing nisi occaecat exercitation excepteur quis aute mollit. Anim non dolore nisi est magna.\r\n"
+  }
+]

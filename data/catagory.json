@@ -1,0 +1,22 @@
+[
+    {
+      "id": "01",
+      "name": "Science"
+    },
+    {
+      "id": "02",
+      "name": "Commerce"
+    },
+    {
+      "id": "03",
+      "name": "Diploma"
+    },
+    {
+      "id": "04",
+      "name": "Humanities"
+    },
+    {
+      "id": "05",
+      "name": "All"
+    }
+  ]

@@ -20,5 +20,5 @@ app.get('/allcourse/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Education server in running', port);
+    console.log('Education server in running port number', port);
 })
